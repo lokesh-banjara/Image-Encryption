@@ -1,1 +1,1 @@
-# Text-Encryption
+# Image Encryption
